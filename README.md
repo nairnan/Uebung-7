@@ -7,7 +7,7 @@ Unsere Informatikuebungen verlangen diese Woche von uns:
 3. das wir die Datei eines anderen Users ändern
 
 ## To-Do Tabelle
-1. Aufgabe | 2. Aufgabe | 3. Aufgabe
+Aufgabe 1 | Aufgabe 2 | Aufgabe 3
 :--- | :---: |---:
 erledigt | gerade dabei | erledigt
 
