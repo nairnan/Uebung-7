@@ -11,7 +11,7 @@ Unsere Informatikuebungen verlangen diese Woche von uns:
 :--- | :---: |---:
 erledigt | gerade dabei | erledigt
 
-Bei der 2. Aufgabe müssen wir auch eine _kursive_ und eine __fette__ Srift mit einbeziehen.
+Bei der 2. Aufgabe müssen wir auch _eine kursive_ und __eine fette__ Srift mit einbeziehen.
 
 Man kann auch ___beides zusammen___ haben, wenn man will.
 
